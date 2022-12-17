@@ -1,5 +1,5 @@
 # Stopwatch-app
-Simple stopwatch app.
+Simple stopwatch app based on Java Script.
 
 # Try me!
 
